@@ -22,3 +22,7 @@ father, husband, and [aspiring artist](https://instagram.com/phlytangle).
 
 I'm known in PHP circles as "MWOP", and sometimes blog at
 [my personal website](https://mwop.net).
+
+---
+
+> **I have office hours every Tuesday and Wednesday from 19:00-21:00 UTC in [the Laminas Slack](https://laminas.slack.com).**
