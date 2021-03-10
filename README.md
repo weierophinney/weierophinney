@@ -13,7 +13,7 @@ specifications, including [PSR-7 HTTP Message interfaces](https://www.php-fig.or
 and [PSR-15 HTTP Handlers and Middleware interfaces](https://www.php-fig.org/psr/psr-15/),
 which, combined, form the core of modern PHP APIs and web applications.
 
-I work at [Zend by Perforce](https://www.zend.com) as Product Owner and
+I work at [Zend by Perforce](https://www.zend.com) as Product Manager and
 Principal Engineer, where I focus on providing supported PHP runtimes companies
 can depend upon.
 
