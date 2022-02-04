@@ -18,7 +18,9 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 
 -----
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=weierophinney&show_icons=true&theme=dark)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=weierophinney&show_icons=true&theme=dark" alt="GitHub Activity">
+</div>
 
 -----
 
