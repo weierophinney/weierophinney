@@ -1,0 +1,18 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: 0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update the README to list recent blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: guatamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://mwop.net/blog/rss.xml"
