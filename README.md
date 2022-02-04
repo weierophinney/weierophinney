@@ -1,10 +1,5 @@
 <div id="header" align="center">
     <img src="https://mwop.net/images/logo.png" width="150" height="150">
-    <div id="badges">
-        <a href="https://twitter.com/mwop"><img src="https://img.shields.io/badge/Twitter?color=007f00&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
-        <a href="https://instagram.com/phlytangle"><img src="https://img.shields.io/badge/Instagram?color=007f00&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-        <a href="https://www.linkedin.com/in/mweierophinney"><img src="https://img.shields.io/badge/LinkedIn?color=007f00&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-    </div>
 </div>
 
 -----
@@ -29,15 +24,13 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 
 ### Tools I use
 
-<div id="tools" align="center">
-    <img src="https://img.shields.io/badge/PHP?color=007f00&logo=php&logoColor=white&style=for-the-badge" alt="PHP">
-    <img src="https://img.shields.io/badge/Javascript?color=007f00&logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript">
-    <img src="https://img.shields.io/badge/Ubuntu?color=007f00&logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
-    <img src="https://img.shields.io/badge/GNOME?color=007f00&logo=gnome&logoColor=white&style=for-the-badge" alt="GNOME">
-    <img src="https://img.shields.io/badge/Docker?color=007f00&logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-    <img src="https://img.shields.io/badge/Neovim?color=007f00&logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim">
-    <img src="https://img.shields.io/badge/tmux?color=007f00&logo=tmux&logoColor=white&style=for-the-badge" alt="tmux">
-</div>
+![PHP](https://img.shields.io/badge/PHP?color=007f00&logo=php&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript?color=007f00&logo=javascript&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu?color=007f00&logo=ubuntu&logoColor=white&style=for-the-badge)
+![GNOME](https://img.shields.io/badge/GNOME?color=007f00&logo=gnome&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker?color=007f00&logo=docker&logoColor=white&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim?color=007f00&logo=neovim&logoColor=white&style=for-the-badge)
+![tmux](https://img.shields.io/badge/tmux?color=007f00&logo=tmux&logoColor=white&style=for-the-badge)
 
 -----
 
@@ -51,5 +44,11 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 <!-- BLOG-POST-LIST:END -->
 
 -----
+
+### Where to find me
+
+[![Twitter](https://img.shields.io/badge/Twitter?color=007f00&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mwop)
+[![Instagram](https://img.shields.io/badge/Instagram?color=007f00&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/phlytangle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?color=007f00&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mweierophinney)
 
 > **I have office hours every Tuesday and Wednesday from 21:00-23:00 UTC in [the Laminas Slack](https://laminas.slack.com).**
