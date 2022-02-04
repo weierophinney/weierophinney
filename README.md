@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <img src="https://mwop.net/images/logo.png" width="150" height="150">
-
     <div id="badges">
         <a href="https://twitter.com/mwop"><img src="https://img.shields.io/badge/Twitter?color=007f00&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
         <a href="https://instagram.com/phlytangle"><img src="https://img.shields.io/badge/Instagram?color=007f00&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
@@ -31,13 +30,13 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Tools I use
 
 <div id="tools" align="center">
-    <img src="https://img.shields.io/badge/PHP?color=007f00&logo=php&logoColor=white&style=for-the-badge" alt="PHP"></a>
-    <img src="https://img.shields.io/badge/Javascript?color=007f00&logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript"></a>
-    <img src="https://img.shields.io/badge/Ubuntu?color=007f00&logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu"></a>
-    <img src="https://img.shields.io/badge/GNOME?color=007f00&logo=gnome&logoColor=white&style=for-the-badge" alt="GNOME"></a>
-    <img src="https://img.shields.io/badge/Docker?color=007f00&logo=docker&logoColor=white&style=for-the-badge" alt="Docker"></a>
-    <img src="https://img.shields.io/badge/Neovim?color=007f00&logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim"></a>
-    <img src="https://img.shields.io/badge/tmux?color=007f00&logo=tmux&logoColor=white&style=for-the-badge" alt="tmux"></a>
+    <img src="https://img.shields.io/badge/PHP?color=007f00&logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+    <img src="https://img.shields.io/badge/Javascript?color=007f00&logo=javascript&logoColor=white&style=for-the-badge" alt="Javascript">
+    <img src="https://img.shields.io/badge/Ubuntu?color=007f00&logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/GNOME?color=007f00&logo=gnome&logoColor=white&style=for-the-badge" alt="GNOME">
+    <img src="https://img.shields.io/badge/Docker?color=007f00&logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+    <img src="https://img.shields.io/badge/Neovim?color=007f00&logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim">
+    <img src="https://img.shields.io/badge/tmux?color=007f00&logo=tmux&logoColor=white&style=for-the-badge" alt="tmux">
 </div>
 
 -----
