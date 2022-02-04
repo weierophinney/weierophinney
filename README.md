@@ -45,6 +45,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exposing webhooks via mezzio-swoole](https://mwop.net/blog/2022-01-25-openswoole-webhooks.html)
+- [Running cronjobs via an Openswoole timer](https://mwop.net/blog/2022-01-21-openswoole-timer-cron.html)
+- [Laminas CI Automation](https://mwop.net/blog/2021-03-12-laminas-ci.html)
+- [More Changes Coming for the Laminas Project](https://mwop.net/blog/2019-12-05-laminas-update.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
