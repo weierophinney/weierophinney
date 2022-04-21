@@ -57,4 +57,4 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
     <a href="https://www.linkedin.com/in/mweierophinney"><img src="https://img.shields.io/badge/LinkedIn-007f00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </div>
 
-> **I have office hours every Tuesday and Wednesday from 21:00-23:00 UTC in [the Laminas Slack](https://laminas.slack.com).**
+> **I have office hours every Tuesday and Wednesday from 20:00-22:00 UTC in [the Laminas Slack](https://laminas.slack.com).**
