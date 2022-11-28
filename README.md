@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Twitter](https://mwop.net/blog/2022-11-28-goodbye-twitter.html)
 - [TailwindCSS Tips](https://mwop.net/blog/2022-04-26-tailwind.html)
 - [Getting OpenSwoole and the AWS SDK to Play Nice](https://mwop.net/blog/2022-02-23-swoole-aws-sdk-woes.html)
 - [Running cronjobs via an Openswoole timer](https://mwop.net/blog/2022-01-21-openswoole-timer-cron.html)
-- [Exposing webhooks via mezzio-swoole](https://mwop.net/blog/2022-01-25-openswoole-webhooks.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
