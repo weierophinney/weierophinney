@@ -52,7 +52,6 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Where to find me
 
 <div align="center">
-    <a href="https://twitter.com/mwop"><img src="https://img.shields.io/badge/Twitter-007f00?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
     <a rel="me" href="https://phpc.social/@mwop"><img src="https://img.shields.io/badge/Mastodon-007f00?logo=mastodon&logoColor=white&style=for-the-badge" alt="@mwop@phpc.social (Mastodon)"></a>
     <a href="https://instagram.com/phlytangle"><img src="https://img.shields.io/badge/Instagram-007f00?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
     <a href="https://www.linkedin.com/in/mweierophinney"><img src="https://img.shields.io/badge/LinkedIn-007f00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
