@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Months, 3 Weeks, and 3 Days](https://mwop.net/blog/2023-09-06-3-months-3-weeks-3-days.html)
 - [Zentangle Back to Basics, 2022 Retrospective](https://mwop.net/blog/2023-01-07-zentangle-back-to-basics.html)
 - [Goodbye Twitter](https://mwop.net/blog/2022-11-28-goodbye-twitter.html)
 - [TailwindCSS Tips](https://mwop.net/blog/2022-04-26-tailwind.html)
-- [Getting OpenSwoole and the AWS SDK to Play Nice](https://mwop.net/blog/2022-02-23-swoole-aws-sdk-woes.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
