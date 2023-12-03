@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent 2023: Bashly](https://mwop.net/blog/2023-12-03-advent-bashly.html)
 - [Advent 2023: Logseq](https://mwop.net/blog/2023-12-01-advent-logseq.html)
 - [Advent 2023: NTP on AWS](https://mwop.net/blog/2023-12-02-advent-aws-ntp.html)
 - [3 Months, 3 Weeks, and 3 Days](https://mwop.net/blog/2023-09-06-3-months-3-weeks-3-days.html)
-- [Zentangle Back to Basics, 2022 Retrospective](https://mwop.net/blog/2023-01-07-zentangle-back-to-basics.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
