@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent 2023: Shellcheck](https://mwop.net/blog/2023-12-05-advent-shellcheck.html)
 - [Advent 2023: A deploy script](https://mwop.net/blog/2023-12-04-advent-deploy.html)
 - [Advent 2023: Bashly](https://mwop.net/blog/2023-12-03-advent-bashly.html)
 - [Advent 2023: Logseq](https://mwop.net/blog/2023-12-01-advent-logseq.html)
-- [Advent 2023: NTP on AWS](https://mwop.net/blog/2023-12-02-advent-aws-ntp.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
