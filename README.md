@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent 2023: Makefile](https://mwop.net/blog/2023-12-11-advent-makefile.html)
 - [Advent 2023: Doctrine DBAL](https://mwop.net/blog/2023-12-10-advent-dbal.html)
 - [Advent 2023: Forms](https://mwop.net/blog/2023-12-09-advent-forms.html)
 - [Advent 2023: $PATH on Wayland](https://mwop.net/blog/2023-12-08-advent-wayland-path.html)
-- [Advent 2023: FocusMe](https://mwop.net/blog/2023-12-07-advent-focusme.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
