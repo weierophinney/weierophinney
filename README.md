@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent 2023: &lpar;n&rpar;vim Plugins: vim-markdown](https://mwop.net/blog/2023-12-19-advent-vim-markdown.html)
 - [Advent 2023: &lpar;n&rpar;vim Plugins: vim-fugitive](https://mwop.net/blog/2023-12-18-advent-vim-fugitive.html)
 - [Advent 2023: &lpar;n&rpar;vim Plugins: coc.nvim](https://mwop.net/blog/2023-12-17-advent-vim-coc.html)
 - [Advent 2023: &lpar;n&rpar;vim Plugins: tabular](https://mwop.net/blog/2023-12-16-advent-vim-tabular.html)
-- [Advent 2023: &lpar;n&rpar;vim Plugins: vim-surround](https://mwop.net/blog/2023-12-15-advent-vim-surround.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
