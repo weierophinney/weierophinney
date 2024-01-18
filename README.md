@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Audio Choppiness in OBS Studio on Linux](https://mwop.net/blog/2024-01-18-obs-studio-audio-choppiness.html)
 - [Advent 2023: tmux](https://mwop.net/blog/2023-12-21-advent-tmux.html)
 - [Advent 2023: Pandoc](https://mwop.net/blog/2023-12-20-advent-pandoc.html)
 - [Advent 2023: &lpar;n&rpar;vim Plugins: vim-markdown](https://mwop.net/blog/2023-12-19-advent-vim-markdown.html)
-- [Advent 2023: &lpar;n&rpar;vim Plugins: vim-fugitive](https://mwop.net/blog/2023-12-18-advent-vim-fugitive.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
