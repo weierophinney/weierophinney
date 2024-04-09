@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deferring JS Until Script Load](https://mwop.net/blog/2024-04-09-defer-js-to-script-load.html)
 - [Addressing AWS S3 Sync Folder Issues](https://mwop.net/blog/2024-04-06-aws-s3-sync-folder.html)
 - [Fixing Audio Choppiness in OBS Studio on Linux](https://mwop.net/blog/2024-01-18-obs-studio-audio-choppiness.html)
 - [Advent 2023: tmux](https://mwop.net/blog/2023-12-21-advent-tmux.html)
-- [Advent 2023: Pandoc](https://mwop.net/blog/2023-12-20-advent-pandoc.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
