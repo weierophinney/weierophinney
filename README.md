@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I use Wezterm](https://mwop.net/blog/2024-07-04-how-i-use-wezterm.html)
 - [Initializing ZendHQ JobQueue During Application Deployment](https://mwop.net/blog/2024-05-07-zendhq-jq-warmup.html)
 - [Advent 2023: tmux](https://mwop.net/blog/2023-12-21-advent-tmux.html)
 - [Deferring JS Until Script Load](https://mwop.net/blog/2024-04-09-defer-js-to-script-load.html)
-- [Addressing AWS S3 Sync Folder Issues](https://mwop.net/blog/2024-04-06-aws-s3-sync-folder.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
