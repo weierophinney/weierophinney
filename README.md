@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using CloudFlare to Validate DNS For An ACM Certificate](https://mwop.net/blog/2024-09-20-acm-cloudflare-dns-validation.html)
 - [Copy A File From A Docker Container to the Host](https://mwop.net/blog/2024-09-20-docker-copy-to-host.html)
 - [Miscellaneous Postgres Commands](https://mwop.net/blog/2024-09-20-postgres-misc.html)
 - [How I use Wezterm](https://mwop.net/blog/2024-07-04-how-i-use-wezterm.html)
-- [Wezterm Dropdown in Gnome](https://mwop.net/blog/2024-09-17-wezterm-dropdown.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
