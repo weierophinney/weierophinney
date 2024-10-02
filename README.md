@@ -41,8 +41,8 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you know the preferred Docker compose file name?](https://mwop.net/blog/2024-09-25-docker-compose-file-default.html)
 - [Fixing Generation of wl-clipboard Transient Windows When Used with Neovim](https://mwop.net/blog/2024-09-23-nvim-wl-clipboard.html)
+- [Do you know the preferred Docker compose file name?](https://mwop.net/blog/2024-09-25-docker-compose-file-default.html)
 - [Using CloudFlare to Validate DNS For An ACM Certificate](https://mwop.net/blog/2024-09-20-acm-cloudflare-dns-validation.html)
 - [Copy A File From A Docker Container to the Host](https://mwop.net/blog/2024-09-20-docker-copy-to-host.html)
 <!-- BLOG-POST-LIST:END -->
