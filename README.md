@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Diagnosing Vivaldi resource usage](https://mwop.net/blog/2024-10-10-vivaldi-task-manager.html)
-- [Fixing Generation of wl-clipboard Transient Windows When Used with Neovim](https://mwop.net/blog/2024-09-23-nvim-wl-clipboard.html)
-- [Do you know the preferred Docker compose file name?](https://mwop.net/blog/2024-09-25-docker-compose-file-default.html)
-- [Using CloudFlare to Validate DNS For An ACM Certificate](https://mwop.net/blog/2024-09-20-acm-cloudflare-dns-validation.html)
+- [Using resurrect.wezterm to manage Wezterm session state](https://mwop.net/blog/2024-10-21-wezterm-resurrect.html)
+- [Managing Wezterm Keybindings, or Merging with Lua](https://mwop.net/blog/2024-10-21-wezterm-keybindings.html)
+- [Wezterm GUI Notifications](https://mwop.net/blog/2024-10-21-wezterm-notify-send.html)
+- [Escaping Regex Characters in Lua](https://mwop.net/blog/2024-10-18-lua-regex-escape.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
