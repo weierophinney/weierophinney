@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roundup of PHP 8.4 Posts](https://mwop.net/blog/2024-12-04-php-8.4-roundup.html)
 - [Collapsing the Vivaldi Tab Sidebar](https://mwop.net/blog/2024-10-25-vivaldi-tab-sidebar-collapse.html)
 - [Using resurrect.wezterm to manage Wezterm session state](https://mwop.net/blog/2024-10-21-wezterm-resurrect.html)
 - [Managing Wezterm Keybindings, or Merging with Lua](https://mwop.net/blog/2024-10-21-wezterm-keybindings.html)
-- [Wezterm GUI Notifications](https://mwop.net/blog/2024-10-21-wezterm-notify-send.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
