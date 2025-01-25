@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comments are Back](https://mwop.net/blog/2025-01-25-comments-are-back.html)
+- [Fixing issues with Yubico&#39;s PAM U2F bindings in version 1.3.1](https://mwop.net/blog/2025-01-15-pam-yubikey-1.3.1-fix.html)
 - [A Weekly Priority List in Logseq Journal View](https://mwop.net/blog/2024-12-17-logseq-journal-priority-list.html)
 - [Roundup of PHP 8.4 Posts](https://mwop.net/blog/2024-12-04-php-8.4-roundup.html)
-- [Collapsing the Vivaldi Tab Sidebar](https://mwop.net/blog/2024-10-25-vivaldi-tab-sidebar-collapse.html)
-- [Using resurrect.wezterm to manage Wezterm session state](https://mwop.net/blog/2024-10-21-wezterm-resurrect.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
