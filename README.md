@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling PHP-FPM using Caddy](https://mwop.net/blog/2025-03-21-caddy-php-fpm.html)
 - [An Experiment in Journaling](https://mwop.net/blog/2025-03-18-a-daily-journal.html)
 - [SQL Nested Queries or Sub Queries with Doctrine DBAL](https://mwop.net/blog/2025-03-06-dbal-sub-query.html)
 - [Comments are Back](https://mwop.net/blog/2025-01-25-comments-are-back.html)
-- [Fixing issues with Yubico&#39;s PAM U2F bindings in version 1.3.1](https://mwop.net/blog/2025-01-15-pam-yubikey-1.3.1-fix.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
