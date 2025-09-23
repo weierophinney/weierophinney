@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disabling the Zoom mini window on Linux](https://mwop.net/blog/2025-09-23-zoom-disabling-mini-window.html)
 - [Matching Attribute Values in CSS Selectors](https://mwop.net/blog/2025-04-21-css-attribute-wildcard.html)
 - [Overriding values when merging Docker Compose config](https://mwop.net/blog/2025-04-04-docker-compose-override.html)
 - [Handling PHP-FPM using Caddy](https://mwop.net/blog/2025-03-21-caddy-php-fpm.html)
-- [An Experiment in Journaling](https://mwop.net/blog/2025-03-18-a-daily-journal.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
