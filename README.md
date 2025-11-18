@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From zsh to fish](https://mwop.net/blog/2025-11-17-from-zsh-to-fish.html)
 - [CSS Feature Selectors](https://mwop.net/blog/2025-11-03-css-feature-selectors.html)
 - [Linux desktop files and xdg-open](https://mwop.net/blog/2025-11-03-desktop-xdg-open.html)
 - [Disabling the Zoom mini window on Linux](https://mwop.net/blog/2025-09-23-zoom-disabling-mini-window.html)
-- [Matching Attribute Values in CSS Selectors](https://mwop.net/blog/2025-04-21-css-attribute-wildcard.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
