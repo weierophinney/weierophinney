@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing a filename containing a null byte or binary character on Linux](https://mwop.net/blog/2026-02-06-linux-null-byte-filename-removal.html)
 - [Disabling the Zoom mini window on Linux](https://mwop.net/blog/2025-09-23-zoom-disabling-mini-window.html)
 - [From zsh to fish](https://mwop.net/blog/2025-11-17-from-zsh-to-fish.html)
 - [CSS Feature Selectors](https://mwop.net/blog/2025-11-03-css-feature-selectors.html)
+- [Linux desktop files and xdg-open](https://mwop.net/blog/2025-11-03-desktop-xdg-open.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
