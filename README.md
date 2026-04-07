@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Grid Lanes](https://mwop.net/blog/2026-04-07-css-grid-lanes.html)
 - [Headless boot for Beelink EQ14](https://mwop.net/blog/2026-02-24-headless-boot-beelink-eq14.html)
 - [Globbing files to pass to CLI command options](https://mwop.net/blog/2026-02-18-cli-options-with-globs.html)
 - [Passing script arguments to a Makefile target](https://mwop.net/blog/2026-02-11-makefile-args.html)
-- [When docker buildx cannot resolve your container registry](https://mwop.net/blog/2026-02-11-docker-daemon-resolve-conf.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
