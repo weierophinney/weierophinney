@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP DateTimeImmutable::createFromFormat Reset Character](https://mwop.net/blog/2026-04-16-php-create-from-format-reset.html)
 - [SQL ENUM Modification](https://mwop.net/blog/2026-04-08-sql-enum-modification.html)
 - [CSS Grid Lanes](https://mwop.net/blog/2026-04-07-css-grid-lanes.html)
 - [Headless boot for Beelink EQ14](https://mwop.net/blog/2026-02-24-headless-boot-beelink-eq14.html)
-- [Globbing files to pass to CLI command options](https://mwop.net/blog/2026-02-18-cli-options-with-globs.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
