@@ -41,10 +41,10 @@ I'm known in PHP circles as "MWOP", and sometimes blog at [my personal website](
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nextcloud SSRF rules and internal address ranges](https://mwop.net/blog/2026-07-07-nextcloud-ssrf-and-internal-address-ranges.html)
 - [Musings on GenAI](https://mwop.net/blog/2026-07-06-musings-on-gen-ai.html)
 - [Determining if a reboot is required on Linux](https://mwop.net/blog/2026-05-04-reboot-required.html)
 - [PHP DateTimeImmutable::createFromFormat Reset Character](https://mwop.net/blog/2026-04-16-php-create-from-format-reset.html)
-- [SQL ENUM Modification](https://mwop.net/blog/2026-04-08-sql-enum-modification.html)
 <!-- BLOG-POST-LIST:END -->
 
 -----
